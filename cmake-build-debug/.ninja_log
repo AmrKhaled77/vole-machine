@@ -1,0 +1,25 @@
+# ninja log v5
+115	1781	7512975817898076	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+2	2044	7512975820536605	CMakeFiles/untitled5.dir/volemachien/voleMachine.cpp.obj	133596ba37397f5f
+206	2654	7512975826613141	CMakeFiles/untitled5.dir/mainMemory/mainMemorey.cpp.obj	5424c1c4091ef6d1
+288	2895	7512975829041778	CMakeFiles/untitled5.dir/mainMemory/memoryUnit.cpp.obj	e4f4f52b8659027a
+360	3300	7512975833099464	CMakeFiles/untitled5.dir/CPU/CPU.cpp.obj	715cd00abdfdff2c
+5	1617	7512977049442981	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+94	1947	7512977052731104	CMakeFiles/untitled5.dir/mainMemory/memoryUnit.cpp.obj	e4f4f52b8659027a
+4	1846	7512978061217939	CMakeFiles/untitled5.dir/mainMemory/mainMemorey.cpp.obj	5424c1c4091ef6d1
+69	2072	7512978063476655	CMakeFiles/untitled5.dir/volemachien/voleMachine.cpp.obj	133596ba37397f5f
+172	2525	7512978068014099	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+260	3015	7512978072901496	CMakeFiles/untitled5.dir/CPU/CPU.cpp.obj	715cd00abdfdff2c
+4	1342	7512978934500104	CMakeFiles/untitled5.dir/CPU/CPU.cpp.obj	715cd00abdfdff2c
+1343	2384	7512978944855708	untitled5.exe	caf8db949162998d
+9	1766	7513003798121277	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+1766	3258	7513003812974779	untitled5.exe	caf8db949162998d
+4	1505	7513004768035667	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+64	1786	7513004770884056	CMakeFiles/untitled5.dir/volemachien/voleMachine.cpp.obj	133596ba37397f5f
+129	2103	7513004774042358	CMakeFiles/untitled5.dir/CPU/CPU.cpp.obj	715cd00abdfdff2c
+2103	3089	7513004783836364	untitled5.exe	caf8db949162998d
+75	3328	7513018263509134	CMakeFiles/untitled5.dir/mainMemory/mainMemorey.cpp.obj	5424c1c4091ef6d1
+261	3329	7513018266377476	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+3330	7352	7513018306437640	untitled5.exe	caf8db949162998d
+9	2018	7513021111063909	CMakeFiles/untitled5.dir/main.cpp.obj	61402d6a21c0d23b
+2018	3438	7513021124985428	untitled5.exe	caf8db949162998d
