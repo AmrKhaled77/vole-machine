@@ -23,7 +23,8 @@ public:
     string address;
     string hex;
     string binary;
-    static int number;
+    static int  count ;
+//
 
     memoryUnit(const string data);
 };

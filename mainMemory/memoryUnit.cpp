@@ -1,8 +1,10 @@
 // memoryUnit.cpp
 #include "memoryUnit.h"
 
-// Static variable initialization
-int memoryUnit::number = -1;
+
+
+
+int  memoryUnit::count=-1;
 
 // Function to convert hex to binary
 string hexToBinary(const string& hex) {
@@ -26,8 +28,9 @@ string toHex(int number, int width) {
 
 // Constructor for memoryUnit class
 memoryUnit::memoryUnit(const string data) {
-    number++;
+
+    count++;
     hex = data;
     binary = hexToBinary(hex);
-    address = toHex(number, 2);
+    address = toHex(count, 2);
 }

@@ -7,4 +7,5 @@ add_executable(untitled5 main.cpp
         volemachien/voleMachine.cpp
         mainMemory/mainMemorey.cpp
         mainMemory/memoryUnit.cpp
-        CPU/CPU.cpp)
+        CPU/CPU.cpp
+)

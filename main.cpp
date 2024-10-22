@@ -17,7 +17,7 @@ using namespace std;
 
 int main() {
     // Create a mainMemory object with a size of 16
-//    mainMemory memory(256);
+   mainMemory memory(256);
 mainMemory regstir(16);
 
 
@@ -26,6 +26,7 @@ mainMemory regstir(16);
 //     voleMachine vl(cpu, memory);
 
     // Display the initial state of mainMemory
+    memory.showData();
     regstir.showData();
 
     return 0;

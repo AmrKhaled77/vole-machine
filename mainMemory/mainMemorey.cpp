@@ -1,5 +1,6 @@
 // mainMemory.cpp
 #include "mainMemorey.h"
+#include "memoryUnit.h"
 
 // Default constructor
 mainMemory::mainMemory() {
@@ -14,6 +15,7 @@ mainMemory::mainMemory(int m) {
     for (int i = 0; i < m; ++i) {
         memory.emplace_back("00");
     }
+      memoryUnit::count=-1;
 }
 
 // showData method implementation
