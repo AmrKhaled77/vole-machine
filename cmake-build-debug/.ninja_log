@@ -1,0 +1,11 @@
+# ninja log v5
+339	3677	7516437723506825	CMakeFiles/untitled9.dir/CU.cpp.obj	77474e16266fa91d
+1	1830	7516426871096088	CMakeFiles/untitled9.dir/mainMemory/mainMemorey.cpp.obj	b45a74beb9216053
+132	2006	7516448388918549	CMakeFiles/untitled9.dir/volemachien/voleMachine.cpp.obj	d79eae98097217d3
+79	1864	7516448387479379	CMakeFiles/untitled9.dir/CPU/CPU.cpp.obj	5e4d95d131303d83
+7	1805	7516448386869729	CMakeFiles/untitled9.dir/main.cpp.obj	d5e85fba18b32d2f
+218	3577	7516437719532128	CMakeFiles/untitled9.dir/helperFunctions.cpp.obj	3bf5a973c0ef8700
+442	3497	7516426887826469	CMakeFiles/untitled9.dir/mainMemory/memoryUnit.cpp.obj	99aa97cb66761c3
+2552	3635	7516448405132322	untitled9.exe	74304126397a4daf
+3	2146	7516454878495189	build.ninja	f00f1ddf0b457bf
+198	2551	7516448394365557	CMakeFiles/untitled9.dir/CU/CU.cpp.obj	9ee9f1803c10f6ed
