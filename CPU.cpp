@@ -78,18 +78,19 @@ void CPU::runOneCycle(mainMemory &memory) {
 }
 
 void CPU::runAll(mainMemory &memory) {
+    int count =0 ;
 
     while (opCode != "c" && opCode != "c") {
+        count ++;
+        if (count ==127)
+        {
 
+            indecator =0 ;
+            fetchedDate="00";
+
+            break ;
+        }
         runOneCycle(memory);
     }
 
 }
-
-
-
-
-
-
-
-
