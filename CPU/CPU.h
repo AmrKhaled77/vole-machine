@@ -16,7 +16,7 @@ using namespace std;
 
 class CPU {
 public:
-    int indecator;      // Pointer to indicator
+    int indecator;      // A Pointer to indicator
     mainMemory Register;  // Instance of mainMemory
 
     CPU(int i, mainMemory r); // Constructor declaration
