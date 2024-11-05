@@ -56,9 +56,6 @@ MachineSimulator::~MachineSimulator()
     delete ui;
 }
 
-
-
-
 void MachineSimulator::updateMemoryDisplay() {
     ui->memoryTable->clearContents();
     int memorySize = vl.memory->memory.size();
@@ -111,10 +108,16 @@ void MachineSimulator::on_oneCycleButton_clicked()
 
 void MachineSimulator::on_runAllButton_clicked()
 {
-    vl.cpu->runAll(memory);
-    updateVariablesDisplay();
-    updateMemoryDisplay();
-    updateRegistersDisplay();
+    QMessageBox::StandardButton answer;
+    answer = QMessageBox::question(this, "Disclamer", "instructions must end with c000 did you put it ",
+                                  QMessageBox::Yes | QMessageBox::No);
+    if (answer == QMessageBox::Yes) {
+        vl.cpu->runAll(memory);
+        updateVariablesDisplay();
+        updateMemoryDisplay();
+        updateRegistersDisplay();
+
+    }
 
 }
 void MachineSimulator::on_haltButton_clicked()
@@ -135,29 +138,6 @@ void MachineSimulator::on_clearButton_clicked()
     updateRegistersDisplay();
 
 }
-
-
-// void MachineSimulator::processInput(int & currentInstructionPointer) {
-//     QString input = ui->inputLineEdit->text();
-//     QStringList instructions = input.split(QRegularExpression("\\s+"), Qt::SkipEmptyParts);
-
-//     for (int i = 0; i < instructions.size() && (currentInstructionPointer + i) < vl.memory->memory.size(); ++i) {
-//         QRegularExpression regex("^0x([0-9A-Fa-f]{2})");
-//         QRegularExpressionMatch match = regex.match(instructions[i]);
-
-//         if (match.hasMatch()) {
-//             // Extract only the two-digit hex number without "0x"
-//             QString hexNumber = match.captured(1);
-//             vl.memory->memory[currentInstructionPointer + i].hex = hexNumber; // Store just the hex digits
-//         } else {
-//             qDebug() << "Invalid input format for:" << instructions[i];
-//         }
-//     }
-
-//     currentInstructionPointer += instructions.size();
-// }
-
-
 
 
 void MachineSimulator::on_register_clear_clicked()
