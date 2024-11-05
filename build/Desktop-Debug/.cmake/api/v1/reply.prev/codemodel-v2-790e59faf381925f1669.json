@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fcf3009b7ed430774060.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Gui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui-Debug-4242e1cbb5dd612c40ec.json",
+					"name" : "Gui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_autogen-Debug-a6daa97fa83d4d7a2262.json",
+					"name" : "Gui_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Gui_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gui_autogen_timestamp_deps-Debug-9e82f76b8dddd305ff4b.json",
+					"name" : "Gui_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug",
+		"source" : "C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

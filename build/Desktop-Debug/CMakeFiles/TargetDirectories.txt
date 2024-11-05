@@ -1,0 +1,8 @@
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/Gui.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/install.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/install/local.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/Gui_autogen_timestamp_deps.dir
+C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/CMakeFiles/Gui_autogen.dir

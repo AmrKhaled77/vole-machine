@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2023.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\user\coding\c++\oop\assignments\assignment1\task4,5\Gui -B C:\Users\user\coding\c++\oop\assignments\assignment1\task4,5\Gui\cmake-build-debug
+-- The CXX compiler identification is GNU 13.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/msys64/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (3.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/cmake-build-debug

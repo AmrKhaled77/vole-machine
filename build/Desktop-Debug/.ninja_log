@@ -1,0 +1,16 @@
+# ninja log v5
+22	237	7522816367783083	Gui_autogen/timestamp	c7b5ab4a8a31749c
+22	237	7522816367783083	Gui_autogen/mocs_compilation.cpp	c7b5ab4a8a31749c
+881	2680	7516748545013783	CMakeFiles/Gui.dir/voleMachine.cpp.obj	78c66f716dd9a626
+22	237	7522816367783083	C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/Gui_autogen/timestamp	c7b5ab4a8a31749c
+22	237	7522816367783083	C:/Users/user/coding/c++/oop/assignments/assignment1/task4,5/Gui/build/Desktop-Debug/Gui_autogen/mocs_compilation.cpp	c7b5ab4a8a31749c
+579	3747	7522804900181426	CMakeFiles/Gui.dir/CPU.cpp.obj	44c5909bfa0962c8
+245	2783	7522807236692066	CMakeFiles/Gui.dir/CU.cpp.obj	cb64e9be37cfe3ca
+643	2951	7520242734214666	CMakeFiles/Gui.dir/memoryUnit.cpp.obj	131a7b067ca5d6e
+256	2775	7522816416632327	CMakeFiles/Gui.dir/helperFunctions.cpp.obj	7bb603f52f053563
+1816	4464	7522457437755905	CMakeFiles/Gui.dir/mainMemorey.cpp.obj	19c906fd7d67c544
+879	3902	7522728809741865	CMakeFiles/Gui.dir/Gui_autogen/mocs_compilation.cpp.obj	9a0ed6752b32d775
+890	3901	7522728809753559	CMakeFiles/Gui.dir/main.cpp.obj	d1b7634d279315a6
+3021	3369	7522816421869323	Gui.exe	18632f2e62d44f73
+249	3020	7522816419084382	CMakeFiles/Gui.dir/machinesimulator.cpp.obj	15719390d4e1d2f
+439	2602	7522708373135771	CMakeFiles/Gui.dir/volemachine.cpp.obj	31df0df54cd7e4ab
